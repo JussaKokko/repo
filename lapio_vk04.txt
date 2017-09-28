@@ -1,6 +1,6 @@
 testi teist teisti
 uusi tiedosto
-jolla testaan
+terveisiä GitHubista!
 neljäs rivi
 viides rivi
 
