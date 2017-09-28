@@ -1,6 +1,7 @@
 testi teist teisti
 uusi tiedosto
 terveisiä mun koneelta
+terveisiä GitHubista!
 neljäs rivi
 viides rivi
 
