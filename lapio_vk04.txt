@@ -11,3 +11,5 @@ tehtävä 10 Lempiviikkoni on varmaankin tämä viikko. Githubin kanssa värkkä
 GitHubin kautta tehty lisäys, katsotaan...
 Lempitehtäväni oli kron.tab
 >>>>>>> Stashed changes
+
+merge tehtävään kirjotteilen muutoksia
