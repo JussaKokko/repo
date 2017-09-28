@@ -4,4 +4,5 @@ jolla testaan
 neljäs rivi
 viides rivi
 
-GitHubin kautta tehty lisäys, katsotaan...
+tehtöävä 9GitHubin kautta tehty lisäys, katsotaan...
+tehtävä 10 Lempiviikkoni on varmaankin tämä viikko. Githubin kanssa värkkääminen on mukavaa.
