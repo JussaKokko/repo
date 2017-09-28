@@ -4,5 +4,10 @@ jolla testaan
 neljäs rivi
 viides rivi
 
+<<<<<<< Updated upstream
 tehtöävä 9GitHubin kautta tehty lisäys, katsotaan...
 tehtävä 10 Lempiviikkoni on varmaankin tämä viikko. Githubin kanssa värkkääminen on mukavaa.
+=======
+GitHubin kautta tehty lisäys, katsotaan...
+Lempitehtäväni oli kron.tab
+>>>>>>> Stashed changes
